@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Mihiroar.netlify.app)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](https://Mihiroar.netlify.app)
 <h1 align="center">Hi 👋, I'm Mihir Vishwakarma</h1>
 <h3 align="center">I specialize in creating software with user-friendly interfaces that deliver exceptional user experiences. With a keen eye for design and a passion for seamless functionality, I am dedicated to crafting top-notch software solutions that leave a lasting impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/7813810/screenshots/17447483/media/2f93ce55516c9b590bec1c8950a67a62.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mihirsharma472" target="blank"><img src="https://img.shields.io/twitter/follow/mihirsharma472?logo=twitter&style=for-the-badge" alt="mihirsharma472" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Blockchain Development and Cloud Computing.**
+- 🌱 I’m currently learning **Machine Learning, Blockchain Development and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://mihiroar.netlify.app/](https://mihiroar.netlify.app/)
 
