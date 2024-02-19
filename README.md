@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mihirsharma472" target="blank"><img src="https://img.shields.io/twitter/follow/mihirsharma472?logo=twitter&style=for-the-badge" alt="mihirsharma472" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Blockchain Development and Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning, Blockchain Development and Cloud Computing.**
 
 - 👨‍💻 All of my projects are available at [https://mihiroar.netlify.app/](https://mihiroar.netlify.app/)
 
